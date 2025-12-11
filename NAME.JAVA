@@ -1,1 +1,5 @@
-//https://github.com/OmChaitanyaSharma/java.git
+public class main{
+    public static void main(String[] args){
+        System.out.print("hello world");
+    }
+}
